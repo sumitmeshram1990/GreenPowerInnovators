@@ -28,21 +28,19 @@
 ### The issue we are hoping to solve
 
 EcoEnergySaver is a comprehensive app for consumers and industries to reduce carbon footprints.
+
 It has following features: 
 real-time energy monitoring,  
 usage breakdowns,  
 goal tracking,  
 AI-driven recommendations,  
 comparative analysis,  
-alerts,  
-virtual energy audits,  
+alerts,   
 smart device integration,  
-community engagement,  
 carbon footprint calculation,  
 industrial insights,  
 data visualization,  
-incentives,  
-an educational hub, and feedback loop.  
+incentives.
 
 
 ### How our technology solution can help
