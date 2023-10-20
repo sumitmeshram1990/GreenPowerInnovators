@@ -27,7 +27,23 @@
 
 ### The issue we are hoping to solve
 
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
+EcoEnergySaver is a comprehensive app for consumers and industries to reduce carbon footprints.
+It has following features: 
+real-time energy monitoring,  
+usage breakdowns,  
+goal tracking,  
+AI-driven recommendations,  
+comparative analysis,  
+alerts,  
+virtual energy audits,  
+smart device integration,  
+community engagement,  
+carbon footprint calculation,  
+industrial insights,  
+data visualization,  
+incentives,  
+an educational hub, and feedback loop.  
+
 
 ### How our technology solution can help
 
