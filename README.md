@@ -23,8 +23,6 @@
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
-_INSTRUCTIONS: Complete all required deliverable sections below._
-
 ## Project summary
 
 ### The issue we are hoping to solve
